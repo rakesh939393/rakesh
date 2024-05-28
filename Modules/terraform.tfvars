@@ -1,12 +1,12 @@
 bucket = {
   bucket1 = {
-    bucket_name = "criujviugtjmmmvbtgikbk"
+    bucket = "criujviugtjmmmvbtgikbk"
   },
 bucket2 = {
-   bucket_name = "cdfjcjfcjfkcbbbbvfvkvnriv"
+   bucket = "cdfjcjfcjfkcbbbbvfvkvnriv"
   },
 bucket3 = {
-    bucket_name = "jcfjcvkfkvcffffffffkcvkrk"
+    bucket = "jcfjcvkfkvcffffffffkcvkrk"
 }  
 }
 role = {
