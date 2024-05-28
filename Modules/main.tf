@@ -3,8 +3,8 @@ module "s3" {
   for_each = var.bucket
   bucket_name = each.value.bucket_name
 }
-module "iam" {
-  source = "./iam"
+module "IAM" {
+  source = "./IAM
   for_each = var.role
   role_name = each.value.role_name
 }
