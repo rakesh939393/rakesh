@@ -13,7 +13,7 @@ on:
   
 jobs:
   terraform:
-    defoults:
+    defaults:
 
     steps:
     # Checkout the repository to the GitHub Actions runner
