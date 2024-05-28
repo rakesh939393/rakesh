@@ -1,6 +1,6 @@
 variable "bucket" {
   type = map(object({
-    bucket= string
+    bucket_name = string
   }))
 }
 
