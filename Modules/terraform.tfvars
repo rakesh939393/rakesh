@@ -1,22 +1,22 @@
 bucket = {
   bucket1 = {
-    bucket = "criujviugtjmmmvbtgikbk"
+    bucket_name = "criujviugtmmvbtgikbk"
   },
 bucket2 = {
-   bucket = "cdfjcjfcjfkcbbbbvfvkvnriv"
+   bucket_name = "cdfjcjfcjfkbbbvfvkvnriv"
   },
 bucket3 = {
-    bucket = "jcfjcvkfkvcffffffffkcvkrk"
+    bucket_name = "jcfjcvkfkvcfffffkcvkrk"
 }  
 }
 role = {
   role = {
-    role_name = "myrakesbbh345"
+    role_name = "myrakesbh345"
   },
   role1 = {
-   role_name = "myrakvvesh165"
+   role_name = "myrakvveh165"
   },
    role2 = {
-    role_name = "myrakmmesh2543"
+    role_name = "myrakmmeh2543"
 }  
 }
